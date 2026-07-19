@@ -1,0 +1,10 @@
+# Ambiente virtual (pesado, especifico da maquina, se recria pelo requirements)
+.venv/
+
+# Dados raspados do Sofascore (nao redistribuir dado de terceiros)
+data/
+
+# Cache do Python e do Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
